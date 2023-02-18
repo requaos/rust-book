@@ -17,3 +17,8 @@ playwright/.cache/
 .vscode
 .std/**/*
 .std/
+
+
+# Added by cargo
+
+/target

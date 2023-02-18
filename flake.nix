@@ -1,5 +1,5 @@
 {
-  description = "ironpress";
+  description = "rust-tutorial";
 
   nixConfig = {
     extra-substituters = [
