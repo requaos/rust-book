@@ -13,8 +13,9 @@ let
     complete.rustc
     complete.rust-src
     complete.rustfmt
-    complete.rust-analyzer
     targets.wasm32-unknown-unknown.latest.rust-std
+    rust-analyzer
+    rust-analyzer-vscode-extension
   ];
 
   dev = lib.dev.mkShell {
